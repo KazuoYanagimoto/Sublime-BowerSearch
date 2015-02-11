@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Bower Search",
+                "mnemonic": "B",
+                "id": "bowersearch",
+                "children":
+                [
+                    {
+                        "caption": "Search packages from Selected",
+                        "command": "bower_search_selected"
+                    },
+                    {
+                        "caption": "Search packages from Input",
+                        "command": "bower_search_from_input"
+                    }
+                ]
+            }
+        ]
+    }
+]

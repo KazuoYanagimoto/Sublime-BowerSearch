@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Bower Search: Search packages from Selected",
+        "command": "bower_search_selected"
+    },
+    {
+        "caption": "Bower Search: Search packages from Input",
+        "command": "bower_search_from_input"
+    }
+]
